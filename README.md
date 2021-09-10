@@ -1,1 +1,2 @@
-a
+[![Twitter Badge](https://img.shields.io/badge/-@dieegosf-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/VitorHugo_oo)](https://twitter.com/VitorHugo_oo) 
+[![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vitorhugo.pozzi@gmail.com)](mailto:vitorhugo.pozzi@gmail.com)
