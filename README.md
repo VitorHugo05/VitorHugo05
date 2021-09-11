@@ -27,3 +27,5 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitorhugo.pozzi@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/vitorhugo.re.7)
 [![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/idqtna750guhj8cue3gkh10he)
+
+![Snake animation](https://github.com/VitorHUgo05/VitorHugo05/blob/output/github-contribution-grid-snake.svg)
