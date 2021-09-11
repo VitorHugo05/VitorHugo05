@@ -23,6 +23,7 @@
  
  <h2>contacts</h2>
  
-[![Twitter Badge](https://img.shields.io/badge/-@VitorHugo_oo-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/VitorHugo_oo)](https://twitter.com/VitorHugo_oo) 
-[![Gmail Badge](https://img.shields.io/badge/-vitorhugo.pozzi@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vitorhugo.pozzi@gmail.com)](mailto:vitorhugo.pozzi@gmail.com)
-
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/VitorHugo_oo) 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitorhugo.pozzi@gmail.com)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/vitorhugo.re.7)
+[![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/idqtna750guhj8cue3gkh10he)
