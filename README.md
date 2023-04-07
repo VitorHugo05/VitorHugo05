@@ -1,7 +1,5 @@
 ## <p style="color: blue">Olá a todos, eu sou Vitor Hugo🧑‍💻</p>
 
-### Status do GitHub
-
 ![Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorHugo05&show_icons=true&theme=dracula&count_private=true)
 
 <a href="https://instagram.com/revitorhugo" target="_blank">
