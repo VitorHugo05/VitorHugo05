@@ -17,5 +17,3 @@
 </a> 
   
 </div>
-
-- 💻 Tenho interesse em trabalhar com FrontEnd e desenvolvimento de apps
