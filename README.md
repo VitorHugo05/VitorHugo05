@@ -1,4 +1,4 @@
-## <p style="color: blue">Hello World, i'm Vitor Hugo!🧑‍💻</p>
+## <p style="color: blue">Hello World, i'm Vitor Hugo <img src="https://github.com/Vitorhugo05/VitorHugo05/blob/master/Assets/Earth.gif" width="24px"></p>
 
 ## Contact me
 
