@@ -44,4 +44,3 @@ Estou sempre aberto a colaborar em projetos interessantes ou discutir novas idei
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-hugo-4a07a52ba/)  
 ---
 
-**Feliz Hack** 
